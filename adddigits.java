@@ -1,3 +1,4 @@
+//3. Add Digits — Given an integer num, repeatedly add all of its digits until only one digit remains, then return that digit
 import java.util.*;
 public class Main {
     public static void main(String[] args) {
