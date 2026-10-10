@@ -1,7 +1,7 @@
 //13.  Longest Common Prefix — Given an array of strings, find the longest prefix that is common to all strings. If no common prefix exists, return an empty string. 
 import java.util.*;
 
-public class Main {
+public class prefix{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
