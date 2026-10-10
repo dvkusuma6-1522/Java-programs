@@ -1,6 +1,6 @@
 //15.   Detect Capital — Determine whether capitalization in a word is used correctly. A word is valid when all letters are uppercase, all letters are lowercase, or only its first letter is uppercase. 
 import java.util.*;
-public class Main {
+public class capital {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String word = sc.next();
