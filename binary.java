@@ -1,6 +1,6 @@
 //10. Convert Binary Number to Integer — Given a binary representation, convert it into its corresponding decimal/integer value. 
 import java.util.*;
-public class Main {
+public class binary {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String binary = sc.next();
