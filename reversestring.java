@@ -1,6 +1,6 @@
 //11.   Reverse String — Given an array of characters representing a string, reverse the array in-place. 
 import java.util.*;
-public class Main {
+public class reversestring {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
