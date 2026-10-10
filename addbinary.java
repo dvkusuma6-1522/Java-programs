@@ -1,6 +1,6 @@
 //9.   Add Binary — Given two binary strings a and b, return their sum as a binary string. 
 import java.util.*;
-public class Main {
+public class addbinary {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String a = sc.next();
