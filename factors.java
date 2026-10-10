@@ -1,6 +1,6 @@
 //7.   Find Common Factors — Given two positive integers a and b, determine how many positive integers divide both a and b. 
 import java.util.*;
-public class Main {
+public class factors {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
