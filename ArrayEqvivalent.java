@@ -1,6 +1,6 @@
 //17.   Check If Two String Arrays are Equivalent — Given two arrays of strings, determine whether concatenating all strings in each array produces the same final string. 
 import java.util.*;
-public class Main {
+public class ArrayEqvivalent {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
