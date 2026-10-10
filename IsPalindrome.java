@@ -1,6 +1,6 @@
 //14. Valid Palindrome — Given a string, determine whether it is a palindrome after considering only alphanumeric characters and ignoring case.
 import java.util.*;
-public class Main {
+public class IsPalindrome {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
