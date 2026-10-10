@@ -1,6 +1,6 @@
 //12. Length of Last Word — Given a string containing words separated by spaces, return the length of the last word.
 import java.util.*;
-public class Main {
+public class length {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine().trim();
