@@ -1,3 +1,4 @@
+//2. Palindrome Number — Given an integer x, determine whether it reads the same from left to right and right to left. Return  true or false.
 import java.util.*;
 public class Main {
     public static void main(String[] args) {
